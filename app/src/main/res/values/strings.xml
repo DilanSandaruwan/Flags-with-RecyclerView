@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flags Recycler View</string>
+    <string name="argentina">argentina--Argentina</string>
+    <string name="australia">australia--Australia</string>
+    <string name="bangladesh">bangladesh--Bangladesh</string>
+    <string name="canada">canada--Canada</string>
+    <string name="china">china--China</string>
+    <string name="finland">finland--Finland</string>
+    <string name="france">france--France</string>
+    <string name="great_britain">great_britain--Great Britain</string>
+    <string name="india">india--India</string>
+    <string name="japan">japan--Japan</string>
+    <string name="norway">norway--Norway</string>
+    <string name="pakistan">pakistan--Pakistan</string>
+    <string name="srilanka">srilanka--Sri Lanka</string>
+    <string name="united_states">united_states--United States</string>
+</resources>
